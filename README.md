@@ -6,5 +6,10 @@
 4. php artisan migrate:fresh --seed
 5. php artisan serve
 
+
+
 untuk website sudah terhosting dengan link 
 https://sneakybites.site
+
+
+versi ini belum versi terbaru seperti di website yang tertera diatas
